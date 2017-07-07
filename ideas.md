@@ -6,3 +6,4 @@
 - currently, system is still teaching me by example (not very well) about what it can and cannot learn
 - hard to change my mind and redefine labels
 - inferring negative examples from absent labels in sequences gets tricky when the computer wipes away some of those labels between others during an update
+- I wish it explained why it rejects some labels
